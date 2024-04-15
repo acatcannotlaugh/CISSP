@@ -5,7 +5,7 @@
 
 [`3安全架构和工程.md`](https://github.com/acatcannotlaugh/CISSP/blob/main/3%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84%E5%92%8C%E5%B7%A5%E7%A8%8B.md)
 
-[`4通信与网络安全 .md`](https://github.com/acatcannotlaugh/CISSP/blob/main/4%E9%80%9A%E4%BF%A1%E4%B8%8E%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%20.md)
+[`4通信与网络安全.md`](https://github.com/acatcannotlaugh/CISSP/blob/main/4%E9%80%9A%E4%BF%A1%E4%B8%8E%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%20.md)
 
 [`5身份与访问管理.md`](https://github.com/acatcannotlaugh/CISSP/blob/main/5%E8%BA%AB%E4%BB%BD%E4%B8%8E%E8%AE%BF%E9%97%AE%E7%AE%A1%E7%90%86.md)
 
